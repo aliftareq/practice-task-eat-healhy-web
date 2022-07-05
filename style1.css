@@ -150,27 +150,41 @@ h1 {
 
 .media {
     display: flex;
+    margin: 100px;
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 5px;
 }
 
 .submedia {
     border: 5px dotted blue;
     margin: 5px;
-    padding-left: 150px;
-    padding-right: 150px;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
 footer {
     background-color: black;
-    height: 100px;
+    height: 150px;
 }
 
-.footer-text {
+.footer-text1 {
     color: white;
     text-align: center;
     font-weight: 700;
     font-size: large;
+    padding: 10px;
 }
 
 .eat-text {
     color: darkorange;
+}
+
+.footer-text2 {
+    color: white;
+    text-align: center;
+}
+
+.footer-text3 {
+    color: white;
+    text-align: center;
 }
