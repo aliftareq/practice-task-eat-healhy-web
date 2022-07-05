@@ -1,0 +1,196 @@
+body {
+    font-family: 'Finlandica', sans-serif;
+    margin: 0px;
+}
+
+.toppest-banner {
+    margin: 20px;
+    height: 60%;
+    width: 98%;
+}
+
+.section {
+    display: flex;
+    margin: 50px 10px;
+    /* border: 5px dotted yellow; */
+}
+
+
+.text1 {
+    width: 50%;
+    margin-right: 50px;
+    padding-left: 80px;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: 15px;
+    color: gray;
+}
+
+.skip-text {
+    color: orange;
+}
+
+.paragraph {
+    margin: 10px;
+    font-weight: 550;
+}
+
+.button {
+    margin-top: 20px;
+    padding: 20px 40px;
+    background-image: linear-gradient(to right, orange, tomato);
+    color: white;
+    font-weight: 400;
+    border-radius: 25px;
+    border: none;
+    box-shadow: 5px 5px 20px grey;
+}
+
+.top-image-div {
+    width: 50%;
+
+}
+
+.top-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.about-us-bannaer {
+    background-image: url("./images/shapes/Frame57.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.about-div1 {
+    width: 50%;
+    margin-right: 50px;
+}
+
+.about-div2 {
+    width: 50%;
+    margin-left: 50px;
+}
+
+.About-us-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.activity-sec {
+    margin: 50px 10px;
+    /* border: 5px dotted yellow; */
+}
+
+.activity-heading {
+    text-align: center;
+}
+
+.activity-list {
+    text-align: center;
+}
+
+.mylist {
+    display: inline-block;
+    text-align: left;
+    font-weight: 500;
+}
+
+.card {
+    display: flex;
+    /* border: 5px dotted blue; */
+}
+
+.card-1 {
+    width: 50%;
+    padding: 20px;
+    /* border: 2px dotted red; */
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 150px;
+    margin-right: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+
+
+}
+
+.card-2 {
+    width: 50%;
+    padding: 20px;
+    /* border: 2px dotted blue; */
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 150px;
+    margin-left: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+}
+
+.activity-image-1 {
+    display: block;
+    width: 100%;
+    border-radius: 5px;
+}
+
+.activity-image-2 {
+    display: block;
+    width: 100%;
+    border-radius: 5px;
+}
+
+.item {
+    margin-left: 10px;
+}
+
+.item-text {
+    margin-left: 10px;
+    font-weight: 600;
+}
+
+.media {
+    display: flex;
+    margin: 100px;
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 5px;
+}
+
+.submedia {
+    /* border: 5px dotted blue; */
+    margin: 5px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+footer {
+    background-color: black;
+    height: 150px;
+}
+
+.footer-text1 {
+    color: white;
+    text-align: center;
+    font-weight: 700;
+    font-size: large;
+    padding: 10px;
+}
+
+.eat-text {
+    color: darkorange;
+}
+
+.footer-text2 {
+    color: white;
+    text-align: center;
+}
+
+.footer-text3 {
+    color: white;
+    text-align: center;
+}
